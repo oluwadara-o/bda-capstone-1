@@ -23,4 +23,4 @@ Total time:  2.76 seconds
 
 ## Comparison
 
-Speed improvement: XX%
+Speed improvement: 66%
